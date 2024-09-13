@@ -1,3 +1,5 @@
+// classe principal (teste)
+
 class RecintosZoo {
   analisaRecintos(animal, quantidade) {
     const animaisPermitidos = {
